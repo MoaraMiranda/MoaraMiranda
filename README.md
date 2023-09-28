@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there! I'm Moara Miranda
 
-🔭 I'm Moara Miranda an aspiring Junior Full-Stack Developer  | Proficient in HTML, CSS, JavaScript, React, Node.js | Skilled in crafting RESTful APIs and implementing JWT authentication for secure applications 🔐 | Committed to delivering seamless web experiences that users love ❤️
+🔭 I'm Moara Miranda an aspiring Full-Stack Developer  | Proficient in HTML, CSS, JavaScript, React, Node.js | Skilled in crafting RESTful APIs and implementing JWT authentication for secure applications 🔐 | Committed to delivering seamless web experiences that users love ❤️
+
+Check out my projects on GitHub and let's connect to discuss exciting opportunities and collaborations in the world of web development! #WebDev #FullStack
 
 ##
 
@@ -18,6 +20,7 @@
 ##
 
 <div> 
+  
   <a href="https://instagram.com/moaramiranda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:moaramirandass@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/moara-miranda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
