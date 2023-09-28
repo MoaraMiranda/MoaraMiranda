@@ -1,6 +1,6 @@
 ## Hi there! I'm Moara Miranda
 
-🔭 I'm Moara Miranda an aspiring Full-Stack Developer  | Proficient in HTML, CSS, JavaScript, React, Node.js | Skilled in crafting RESTful APIs and implementing JWT authentication for secure applications 🔐 | Committed to delivering seamless web experiences that users love ❤️
+🔭 I'm an aspiring Full-Stack Developer  | Proficient in HTML, CSS, JavaScript, React, Node.js | Skilled in crafting RESTful APIs and implementing JWT authentication for secure applications 🔐 | Committed to delivering seamless web experiences that users love ❤️
 
 Check out my projects on GitHub and let's connect to discuss exciting opportunities and collaborations in the world of web development! #WebDev #FullStack
 
